@@ -463,10 +463,10 @@
                     "RaycastSilentAim":  {
                                              "DescriptorBoundFnOffset":  128,
                                              "DescriptorNamePtrOffset":  8,
-                                             "FindPartOnRayDescriptorRva":  136321856,
-                                             "FindPartOnRayWithIgnoreListDescriptorRva":  136322032,
-                                             "FindPartOnRayWithWhitelistDescriptorRva":  136322208,
-                                             "RaycastDescriptorRva":  136319648
+                                             "FindPartOnRayDescriptorRva":  134358256,
+                                             "FindPartOnRayWithIgnoreListDescriptorRva":  134358432,
+                                             "FindPartOnRayWithWhitelistDescriptorRva":  134358608,
+                                             "RaycastDescriptorRva":  134356048
                                          },
                     "RemoteSpy":  {
                                       "BaseRemoteEventVTableRva":  102262040,
