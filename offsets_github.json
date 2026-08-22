@@ -7,7 +7,7 @@
                     "AnimationTrack":  {
                                            "Animation":  184,
                                            "Animator":  264,
-                                           "IsPlaying":  2640,
+                                           "IsPlaying":  2704,
                                            "Looped":  229,
                                            "Speed":  212,
                                            "TimePosition":  216
@@ -26,6 +26,29 @@
                     "Attachment":  {
                                        "Position":  196
                                    },
+                    "AttributeStorage":  {
+                                             "ArrayBegin":  8,
+                                             "Count":  16,
+                                             "EntryKeyObject":  0,
+                                             "EntrySize":  88,
+                                             "EntryTypePtr1":  8,
+                                             "EntryTypePtr2":  16,
+                                             "EntryValue":  24,
+                                             "HashCountBound":  12,
+                                             "HashDenseArray":  24,
+                                             "KeyCapacity":  32,
+                                             "KeyChars":  8,
+                                             "KeyLength":  24,
+                                             "MaxNameLength":  50,
+                                             "MaxRealAttributes":  64,
+                                             "Mode":  0,
+                                             "TypeRvaBool":  142380656,
+                                             "TypeRvaColor3":  142381776,
+                                             "TypeRvaDouble":  142380976,
+                                             "TypeRvaFloat":  142380736,
+                                             "TypeRvaString":  142381056,
+                                             "TypeRvaVector3":  142381136
+                                         },
                     "BasePart":  {
                                      "CastShadow":  309,
                                      "Color3":  424,
@@ -102,16 +125,25 @@
                                                "Enabled":  176,
                                                "TonemapperPreset":  184
                                            },
+                    "ComponentMap":  {
+                                         "Begin":  0,
+                                         "CapacityEnd":  16,
+                                         "End":  8,
+                                         "EntryComponent":  0,
+                                         "EntrySize":  16,
+                                         "EntryTag":  8,
+                                         "Overflow":  24
+                                     },
                     "DataModel":  {
                                       "CreatorId":  376,
                                       "GameId":  384,
-                                      "GameLoaded":  1472,
+                                      "GameLoaded":  1392,
                                       "JobId":  280,
                                       "PlaceId":  392,
                                       "PlaceVersion":  420,
-                                      "PrimitiveCount":  1032,
+                                      "PrimitiveCount":  952,
                                       "ScriptContext":  1088,
-                                      "ServerIP":  1448,
+                                      "ServerIP":  1368,
                                       "ToRenderView1":  448,
                                       "ToRenderView2":  8,
                                       "ToRenderView3":  40,
@@ -145,7 +177,7 @@
                                         "BBoxMinY":  156,
                                         "BBoxMinZ":  160,
                                         "ColorData":  36,
-                                        "FastClusterVTableRva":  112073744,
+                                        "FastClusterVTableRva":  109885464,
                                         "FillModeByte":  17,
                                         "Flags2":  32,
                                         "MaterialStride":  136,
@@ -157,18 +189,18 @@
                                         "TechniqueEnd":  8
                                     },
                     "FakeDataModel":  {
-                                          "Pointer":  147072760,
+                                          "Pointer":  146250584,
                                           "RealDataModel":  472
                                       },
                     "FFlagOffsets":  {
-                                         "FFlagList":  141580168,
+                                         "FFlagList":  137953672,
                                          "FlagToValue":  192,
                                          "ValueGetSet":  48
                                      },
                     "FFlags":  {
-                                   "GameNetCompressionLodByteBudgetThresholdPct":  129230656,
-                                   "NextGenReplicatorEnabledWrite4":  134144072,
-                                   "PhysicsSenderMaxBandwidthBps":  129224424
+                                   "GameNetCompressionLodByteBudgetThresholdPct":  128519344,
+                                   "NextGenReplicatorEnabledWrite4":  133085424,
+                                   "PhysicsSenderMaxBandwidthBps":  128510208
                                },
                     "GCObject":  {
                                      "Marked":  0,
@@ -235,14 +267,14 @@
                                      "MoveToPoint":  356,
                                      "NameDisplayDistance":  432,
                                      "NameOcclusion":  436,
-                                     "PlatformStand":  476,
+                                     "PlatformStand":  197,
                                      "PlatformStatePointer":  3630873449,
                                      "RequiresNeck":  477,
                                      "RigType":  448,
                                      "SeatPart":  264,
                                      "Sit":  478,
                                      "TargetPoint":  332,
-                                     "UseJumpPower":  480,
+                                     "UseJumpPower":  197,
                                      "Walkspeed":  464,
                                      "WalkspeedCheck":  956,
                                      "WalkTimer":  1032
@@ -322,6 +354,37 @@
                                      "Gt":  48,
                                      "StackSize":  40
                                  },
+                    "Luau":  {
+                                 "Closure::Env":  16,
+                                 "GCObject::Memcat":  2,
+                                 "GlobalState::StrtNuse":  12,
+                                 "GlobalState::StrtSize":  8,
+                                 "LuaNode::KeyBase":  16,
+                                 "LuaNode::KeyTtWord":  12,
+                                 "LuaNode::Stride":  32,
+                                 "LuaNode::ValTt":  12,
+                                 "LuaState::Gt":  48,
+                                 "LuaState::StackSize":  40,
+                                 "Page::BlockSize":  36,
+                                 "Page::BusyBlocks":  52,
+                                 "Page::Data":  64,
+                                 "Page::FreeNext":  48,
+                                 "Page::PageSize":  32,
+                                 "ScriptContext::EncryptedState":  848,
+                                 "Table::Array":  24,
+                                 "Table::Gclist":  40,
+                                 "Table::Lsizenode":  4,
+                                 "Table::Metatable":  32,
+                                 "Table::Node":  16,
+                                 "Table::Safeenv":  3,
+                                 "Table::SizeArray":  8,
+                                 "TString::Data":  24,
+                                 "TString::Hash":  16,
+                                 "TString::Len":  20,
+                                 "TString::Next":  8,
+                                 "Udata::Data0":  24,
+                                 "Udata::Data1":  32
+                             },
                     "MaterialColors":  {
                                            "Asphalt":  48,
                                            "Basalt":  39,
@@ -417,7 +480,7 @@
                                    "HealthDisplayDistance":  916,
                                    "LocaleId":  280,
                                    "LocalPlayer":  304,
-                                   "MaxZoomDistance":  349,
+                                   "MaxZoomDistance":  872,
                                    "MinZoomDistance":  876,
                                    "ModelInstance":  664,
                                    "Mouse":  4592,
@@ -463,10 +526,10 @@
                     "RaycastSilentAim":  {
                                              "DescriptorBoundFnOffset":  128,
                                              "DescriptorNamePtrOffset":  8,
-                                             "FindPartOnRayDescriptorRva":  134358256,
-                                             "FindPartOnRayWithIgnoreListDescriptorRva":  134358432,
-                                             "FindPartOnRayWithWhitelistDescriptorRva":  134358608,
-                                             "RaycastDescriptorRva":  134356048
+                                             "FindPartOnRayDescriptorRva":  136321856,
+                                             "FindPartOnRayWithIgnoreListDescriptorRva":  136322032,
+                                             "FindPartOnRayWithWhitelistDescriptorRva":  136322208,
+                                             "RaycastDescriptorRva":  136319648
                                          },
                     "RemoteSpy":  {
                                       "BaseRemoteEventVTableRva":  102262040,
@@ -488,8 +551,8 @@
                                        "VisualEngine":  16
                                    },
                     "RunService":  {
-                                       "HeartbeatFPS":  200,
-                                       "HeartbeatTask":  224
+                                       "HeartbeatFPS":  244,
+                                       "HeartbeatTask":  952
                                    },
                     "Script":  {
                                    "ByteCode":  0,
@@ -551,12 +614,12 @@
                                           "Spread":  188
                                       },
                     "SurfaceAppearance":  {
-                                              "AlphaMode":  496,
-                                              "Color":  472,
+                                              "AlphaMode":  656,
+                                              "Color":  632,
                                               "ColorMap":  200,
                                               "EmissiveMaskContent":  248,
-                                              "EmissiveStrength":  500,
-                                              "EmissiveTint":  484,
+                                              "EmissiveStrength":  660,
+                                              "EmissiveTint":  644,
                                               "MetalnessMap":  296,
                                               "NormalMap":  344,
                                               "RoughnessMap":  392
@@ -575,7 +638,7 @@
                                           "JobName":  24,
                                           "JobStart":  200,
                                           "MaxFPS":  176,
-                                          "Pointer":  144560392
+                                          "Pointer":  143353032
                                       },
                     "Team":  {
                                  "BrickColor":  184
@@ -628,7 +691,7 @@
                     "VisualEngine":  {
                                          "Dimensions":  2784,
                                          "FakeDataModel":  2752,
-                                         "Pointer":  136830344,
+                                         "Pointer":  135488040,
                                          "RenderView":  3072,
                                          "ViewMatrix":  384
                                      },
@@ -647,7 +710,7 @@
                     "Workspace":  {
                                       "CurrentCamera":  1176,
                                       "DistributedGameTime":  1208,
-                                      "ReadOnlyGravity":  2504,
+                                      "ReadOnlyGravity":  2496,
                                       "World":  1008
                                   },
                     "World":  {
