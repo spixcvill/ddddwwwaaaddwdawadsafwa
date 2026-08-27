@@ -7,7 +7,7 @@
                     "AnimationTrack":  {
                                            "Animation":  184,
                                            "Animator":  264,
-                                           "IsPlaying":  2704,
+                                           "IsPlaying":  2640,
                                            "Looped":  229,
                                            "Speed":  212,
                                            "TimePosition":  216
@@ -137,13 +137,13 @@
                     "DataModel":  {
                                       "CreatorId":  376,
                                       "GameId":  384,
-                                      "GameLoaded":  1392,
+                                      "GameLoaded":  1472,
                                       "JobId":  280,
                                       "PlaceId":  392,
                                       "PlaceVersion":  420,
-                                      "PrimitiveCount":  952,
+                                      "PrimitiveCount":  1032,
                                       "ScriptContext":  1088,
-                                      "ServerIP":  1368,
+                                      "ServerIP":  1448,
                                       "ToRenderView1":  448,
                                       "ToRenderView2":  8,
                                       "ToRenderView3":  40,
@@ -177,7 +177,7 @@
                                         "BBoxMinY":  156,
                                         "BBoxMinZ":  160,
                                         "ColorData":  36,
-                                        "FastClusterVTableRva":  109885464,
+                                        "FastClusterVTableRva":  112086112,
                                         "FillModeByte":  17,
                                         "Flags2":  32,
                                         "MaterialStride":  136,
@@ -189,18 +189,18 @@
                                         "TechniqueEnd":  8
                                     },
                     "FakeDataModel":  {
-                                          "Pointer":  146250584,
+                                          "Pointer":  147086328,
                                           "RealDataModel":  472
                                       },
                     "FFlagOffsets":  {
-                                         "FFlagList":  137953672,
+                                         "FFlagList":  141528232,
                                          "FlagToValue":  192,
                                          "ValueGetSet":  48
                                      },
                     "FFlags":  {
-                                   "GameNetCompressionLodByteBudgetThresholdPct":  128519344,
-                                   "NextGenReplicatorEnabledWrite4":  133085424,
-                                   "PhysicsSenderMaxBandwidthBps":  128510208
+                                   "GameNetCompressionLodByteBudgetThresholdPct":  129243584,
+                                   "NextGenReplicatorEnabledWrite4":  134157448,
+                                   "PhysicsSenderMaxBandwidthBps":  129237352
                                },
                     "GCObject":  {
                                      "Marked":  0,
@@ -267,14 +267,14 @@
                                      "MoveToPoint":  356,
                                      "NameDisplayDistance":  432,
                                      "NameOcclusion":  436,
-                                     "PlatformStand":  197,
+                                     "PlatformStand":  476,
                                      "PlatformStatePointer":  3630873449,
                                      "RequiresNeck":  477,
                                      "RigType":  448,
                                      "SeatPart":  264,
                                      "Sit":  478,
                                      "TargetPoint":  332,
-                                     "UseJumpPower":  197,
+                                     "UseJumpPower":  480,
                                      "Walkspeed":  464,
                                      "WalkspeedCheck":  956,
                                      "WalkTimer":  1032
@@ -357,12 +357,15 @@
                     "Luau":  {
                                  "Closure::Env":  16,
                                  "GCObject::Memcat":  2,
+                                 "GCObject::Tt":  1,
+                                 "GlobalState::AllGcoPages":  88,
                                  "GlobalState::StrtNuse":  12,
                                  "GlobalState::StrtSize":  8,
                                  "LuaNode::KeyBase":  16,
                                  "LuaNode::KeyTtWord":  12,
                                  "LuaNode::Stride":  32,
                                  "LuaNode::ValTt":  12,
+                                 "LuaState::Global":  32,
                                  "LuaState::Gt":  48,
                                  "LuaState::StackSize":  40,
                                  "Page::BlockSize":  36,
@@ -370,7 +373,7 @@
                                  "Page::Data":  64,
                                  "Page::FreeNext":  48,
                                  "Page::PageSize":  32,
-                                 "ScriptContext::EncryptedState":  848,
+                                 "ScriptContext::EncryptedState":  128,
                                  "Table::Array":  24,
                                  "Table::Gclist":  40,
                                  "Table::Lsizenode":  4,
@@ -480,14 +483,14 @@
                                    "HealthDisplayDistance":  916,
                                    "LocaleId":  280,
                                    "LocalPlayer":  304,
-                                   "MaxZoomDistance":  872,
+                                   "MaxZoomDistance":  126,
                                    "MinZoomDistance":  876,
                                    "ModelInstance":  664,
                                    "Mouse":  4592,
                                    "NameDisplayDistance":  932,
                                    "Team":  728,
                                    "TeamColor":  944,
-                                   "UserId":  768
+                                   "UserId":  208
                                },
                     "PlayerConfigurer":  {
                                              "Pointer":  0
@@ -526,10 +529,10 @@
                     "RaycastSilentAim":  {
                                              "DescriptorBoundFnOffset":  128,
                                              "DescriptorNamePtrOffset":  8,
-                                             "FindPartOnRayDescriptorRva":  136321856,
-                                             "FindPartOnRayWithIgnoreListDescriptorRva":  136322032,
-                                             "FindPartOnRayWithWhitelistDescriptorRva":  136322208,
-                                             "RaycastDescriptorRva":  136319648
+                                             "FindPartOnRayDescriptorRva":  134371440,
+                                             "FindPartOnRayWithIgnoreListDescriptorRva":  134371616,
+                                             "FindPartOnRayWithWhitelistDescriptorRva":  134371792,
+                                             "RaycastDescriptorRva":  134369232
                                          },
                     "RemoteSpy":  {
                                       "BaseRemoteEventVTableRva":  102262040,
@@ -564,7 +567,7 @@
                                           "EncryptedStateAlt":  1120,
                                           "EncryptedStateAlt2":  1664,
                                           "EncryptedStateAlt3":  1672,
-                                          "RequireBypass":  2200
+                                          "RequireBypass":  2464
                                       },
                     "Seat":  {
                                  "Occupant":  528
@@ -585,7 +588,7 @@
                             },
                     "Sound":  {
                                   "IsPlaying":  320,
-                                  "Looped":  317,
+                                  "Looped":  173,
                                   "PlaybackSpeed":  284,
                                   "RollOffMaxDistance":  288,
                                   "RollOffMinDistance":  292,
@@ -614,12 +617,12 @@
                                           "Spread":  188
                                       },
                     "SurfaceAppearance":  {
-                                              "AlphaMode":  656,
-                                              "Color":  632,
+                                              "AlphaMode":  496,
+                                              "Color":  472,
                                               "ColorMap":  200,
                                               "EmissiveMaskContent":  248,
-                                              "EmissiveStrength":  660,
-                                              "EmissiveTint":  644,
+                                              "EmissiveStrength":  500,
+                                              "EmissiveTint":  484,
                                               "MetalnessMap":  296,
                                               "NormalMap":  344,
                                               "RoughnessMap":  392
@@ -638,7 +641,7 @@
                                           "JobName":  24,
                                           "JobStart":  200,
                                           "MaxFPS":  176,
-                                          "Pointer":  143353032
+                                          "Pointer":  144573976
                                       },
                     "Team":  {
                                  "BrickColor":  184
@@ -657,7 +660,7 @@
                                      "Texture_Texture":  384
                                  },
                     "Tool":  {
-                                 "CanBeDropped":  1208,
+                                 "CanBeDropped":  885,
                                  "Enabled":  1209,
                                  "Grip":  1196,
                                  "ManualActivationOnly":  1210,
@@ -691,7 +694,7 @@
                     "VisualEngine":  {
                                          "Dimensions":  2784,
                                          "FakeDataModel":  2752,
-                                         "Pointer":  135488040,
+                                         "Pointer":  136847448,
                                          "RenderView":  3072,
                                          "ViewMatrix":  384
                                      },
@@ -710,7 +713,7 @@
                     "Workspace":  {
                                       "CurrentCamera":  1176,
                                       "DistributedGameTime":  1208,
-                                      "ReadOnlyGravity":  2496,
+                                      "ReadOnlyGravity":  2504,
                                       "World":  1008
                                   },
                     "World":  {
