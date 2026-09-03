@@ -495,7 +495,7 @@
                                    "UserId":  208
                                },
                     "PlayerConfigurer":  {
-                                             "Pointer":  0
+                                             "Pointer":  142182264
                                          },
                     "PlayerMouse":  {
                                         "Icon":  200,
@@ -697,8 +697,8 @@
                                          "Dimensions":  2832,
                                          "FakeDataModel":  2800,
                                          "Pointer":  137696264,
-                                         "RenderView":  3072,
-                                         "ViewMatrix":  432
+                                         "RenderView":  3120,
+                                         "ViewMatrix":  2048
                                      },
                     "Weld":  {
                                  "Part0":  280,
@@ -713,7 +713,7 @@
                                              "CurrentTextBox":  72
                                          },
                     "Workspace":  {
-                                      "CurrentCamera":  1176,
+                                      "CurrentCamera":  1208,
                                       "DistributedGameTime":  1240,
                                       "ReadOnlyGravity":  2544,
                                       "World":  1040
