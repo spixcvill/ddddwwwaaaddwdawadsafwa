@@ -507,7 +507,7 @@
                                       "Flags":  438,
                                       "Material":  582,
                                       "Owner":  528,
-                                      "Position":  236,
+                                      "Position":  92,
                                       "Rotation":  200,
                                       "Size":  444,
                                       "Validate":  6
@@ -698,7 +698,7 @@
                                          "FakeDataModel":  2800,
                                          "Pointer":  137696264,
                                          "RenderView":  3120,
-                                         "ViewMatrix":  2048
+                                         "ViewMatrix":  432
                                      },
                     "Weld":  {
                                  "Part0":  280,
