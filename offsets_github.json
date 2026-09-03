@@ -553,7 +553,7 @@
                                        "DeviceD3D11":  8,
                                        "LightingValid":  552,
                                        "SkyValid":  837,
-                                       "VisualEngine":  16
+                                       "VisualEngine":  24
                                    },
                     "RunService":  {
                                        "HeartbeatFPS":  192,
