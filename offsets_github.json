@@ -694,8 +694,8 @@
                                         "TurnSpeed":  568
                                     },
                     "VisualEngine":  {
-                                         "Dimensions":  2784,
-                                         "FakeDataModel":  2752,
+                                         "Dimensions":  2832,
+                                         "FakeDataModel":  2800,
                                          "Pointer":  137696264,
                                          "RenderView":  3072,
                                          "ViewMatrix":  384
