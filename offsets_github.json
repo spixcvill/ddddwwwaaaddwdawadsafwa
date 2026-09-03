@@ -713,16 +713,16 @@
                                              "CurrentTextBox":  72
                                          },
                     "Workspace":  {
-                                      "CurrentCamera":  1176,
+                                      "CurrentCamera":  1208,
                                       "DistributedGameTime":  1240,
                                       "ReadOnlyGravity":  2544,
-                                      "World":  1040
+                                      "World":  1008
                                   },
                     "World":  {
                                   "AirProperties":  576,
                                   "FallenPartsDestroyHeight":  544,
                                   "Gravity":  556,
-                                  "Primitives":  688,
+                                  "Primitives":  680,
                                   "worldStepsPerSec":  1832
                               }
                 }
