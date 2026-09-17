@@ -177,7 +177,7 @@
                                         "BBoxMinY":  156,
                                         "BBoxMinZ":  160,
                                         "ColorData":  36,
-                                        "FastClusterVTableRva":  109885464,
+                                        "FastClusterVTableRva":  113795576,
                                         "FillModeByte":  17,
                                         "Flags2":  32,
                                         "MaterialStride":  136,
@@ -513,10 +513,10 @@
                     "RaycastSilentAim":  {
                                              "DescriptorBoundFnOffset":  128,
                                              "DescriptorNamePtrOffset":  8,
-                                             "FindPartOnRayDescriptorRva":  134358256,
-                                             "FindPartOnRayWithIgnoreListDescriptorRva":  134358432,
-                                             "FindPartOnRayWithWhitelistDescriptorRva":  134358608,
-                                             "RaycastDescriptorRva":  134356048
+                                             "FindPartOnRayDescriptorRva":  136412256,
+                                             "FindPartOnRayWithIgnoreListDescriptorRva":  136412432,
+                                             "FindPartOnRayWithWhitelistDescriptorRva":  136412608,
+                                             "RaycastDescriptorRva":  136409872
                                          },
                     "RemoteSpy":  {
                                       "BaseRemoteEventVTableRva":  102262040,
