@@ -39,8 +39,6 @@
                                              "KeyCapacity":  32,
                                              "KeyChars":  8,
                                              "KeyLength":  24,
-                                             "MaxNameLength":  50,
-                                             "MaxRealAttributes":  64,
                                              "Mode":  0,
                                              "TypeRvaBool":  142380656,
                                              "TypeRvaColor3":  142381776,
@@ -135,19 +133,19 @@
                                          "Overflow":  24
                                      },
                     "DataModel":  {
-                                      "CreatorId":  384,
-                                      "GameId":  392,
-                                      "GameLoaded":  1496,
-                                      "JobId":  280,
-                                      "PlaceId":  400,
-                                      "PlaceVersion":  428,
-                                      "PrimitiveCount":  1056,
+                                      "CreatorId":  392,
+                                      "GameId":  400,
+                                      "GameLoaded":  1504,
+                                      "JobId":  288,
+                                      "PlaceId":  408,
+                                      "PlaceVersion":  436,
+                                      "PrimitiveCount":  1064,
                                       "ScriptContext":  1088,
-                                      "ServerIP":  1472,
-                                      "ToRenderView1":  456,
+                                      "ServerIP":  1480,
+                                      "ToRenderView1":  464,
                                       "ToRenderView2":  8,
                                       "ToRenderView3":  40,
-                                      "Workspace":  344
+                                      "Workspace":  352
                                   },
                     "DepthOfFieldEffect":  {
                                                "Enabled":  176,
@@ -177,7 +175,7 @@
                                         "BBoxMinY":  156,
                                         "BBoxMinZ":  160,
                                         "ColorData":  36,
-                                        "FastClusterVTableRva":  112830648,
+                                        "FastClusterVTableRva":  109885464,
                                         "FillModeByte":  17,
                                         "Flags2":  32,
                                         "MaterialStride":  136,
@@ -189,18 +187,18 @@
                                         "TechniqueEnd":  8
                                     },
                     "FakeDataModel":  {
-                                          "Pointer":  148644440,
+                                          "Pointer":  149171352,
                                           "RealDataModel":  504
                                       },
                     "FFlagOffsets":  {
-                                         "FFlagList":  143116864,
+                                         "FFlagList":  143640520,
                                          "FlagToValue":  192,
                                          "ValueGetSet":  48
                                      },
                     "FFlags":  {
-                                   "GameNetCompressionLodByteBudgetThresholdPct":  130696184,
-                                   "NextGenReplicatorEnabledWrite4":  135630200,
-                                   "PhysicsSenderMaxBandwidthBps":  130689552
+                                   "GameNetCompressionLodByteBudgetThresholdPct":  131192824,
+                                   "NextGenReplicatorEnabledWrite4":  136151656,
+                                   "PhysicsSenderMaxBandwidthBps":  131186176
                                },
                     "GCObject":  {
                                      "Marked":  0,
@@ -243,7 +241,7 @@
                                      "AutoJumpEnabled":  468,
                                      "AutomaticScalingEnabled":  470,
                                      "AutoRotate":  469,
-                                     "BreakJointsOnDeath":  471,
+                                     "BreakJointsOnDeath":  197,
                                      "CameraOffset":  296,
                                      "DisplayDistanceType":  384,
                                      "DisplayName":  184,
@@ -268,7 +266,7 @@
                                      "NameDisplayDistance":  432,
                                      "NameOcclusion":  436,
                                      "PlatformStand":  476,
-                                     "PlatformStatePointer":  92349479,
+                                     "PlatformStatePointer":  2273837302,
                                      "RequiresNeck":  477,
                                      "RigType":  448,
                                      "SeatPart":  264,
@@ -354,42 +352,6 @@
                                      "Gt":  48,
                                      "StackSize":  40
                                  },
-                    "Luau":  {
-                                 "Closure::Env":  16,
-                                 "GCObject::Memcat":  2,
-                                 "GCObject::Tt":  12,
-                                 "GlobalState::AllGcoPages":  944,
-                                 "GlobalState::StrtNuse":  12,
-                                 "GlobalState::StrtSize":  8,
-                                 "LuaNode::KeyBase":  16,
-                                 "LuaNode::KeyTtWord":  12,
-                                 "LuaNode::Stride":  32,
-                                 "LuaNode::ValTt":  12,
-                                 "LuaState::Global":  96,
-                                 "LuaState::Gt":  48,
-                                 "LuaState::StackSize":  40,
-                                 "Page::BlockSize":  36,
-                                 "Page::BusyBlocks":  52,
-                                 "Page::Data":  64,
-                                 "Page::FreeNext":  48,
-                                 "Page::ListNext":  8,
-                                 "Page::PageSize":  32,
-                                 "ScriptContext::EncryptedState":  1472,
-                                 "ScriptContext::EncryptedStateAlt":  128,
-                                 "Table::Array":  24,
-                                 "Table::Gclist":  40,
-                                 "Table::Lsizenode":  4,
-                                 "Table::Metatable":  32,
-                                 "Table::Node":  16,
-                                 "Table::Safeenv":  3,
-                                 "Table::SizeArray":  8,
-                                 "TString::Data":  24,
-                                 "TString::Hash":  16,
-                                 "TString::Len":  20,
-                                 "TString::Next":  8,
-                                 "Udata::Data0":  24,
-                                 "Udata::Data1":  32
-                             },
                     "MaterialColors":  {
                                            "Asphalt":  48,
                                            "Basalt":  39,
@@ -482,21 +444,21 @@
                                    "UserId":  208
                                },
                     "PlayerConfigurer":  {
-                                             "Pointer":  143296496
+                                             "Pointer":  143820336
                                          },
                     "PlayerMouse":  {
                                         "Icon":  200,
                                         "Workspace":  336
                                     },
                     "Primitive":  {
-                                      "AssemblyAngularVelocity":  260,
-                                      "AssemblyLinearVelocity":  248,
-                                      "Flags":  438,
+                                      "AssemblyAngularVelocity":  236,
+                                      "AssemblyLinearVelocity":  224,
+                                      "Flags":  446,
                                       "Material":  582,
-                                      "Owner":  528,
-                                      "Position":  236,
-                                      "Rotation":  200,
-                                      "Size":  444,
+                                      "Owner":  536,
+                                      "Position":  212,
+                                      "Rotation":  176,
+                                      "Size":  452,
                                       "Validate":  6
                                   },
                     "PrimitiveFlags":  {
@@ -518,10 +480,10 @@
                     "RaycastSilentAim":  {
                                              "DescriptorBoundFnOffset":  128,
                                              "DescriptorNamePtrOffset":  8,
-                                             "FindPartOnRayDescriptorRva":  135245328,
-                                             "FindPartOnRayWithIgnoreListDescriptorRva":  135245504,
-                                             "FindPartOnRayWithWhitelistDescriptorRva":  135245680,
-                                             "RaycastDescriptorRva":  135242944
+                                             "FindPartOnRayDescriptorRva":  134358256,
+                                             "FindPartOnRayWithIgnoreListDescriptorRva":  134358432,
+                                             "FindPartOnRayWithWhitelistDescriptorRva":  134358608,
+                                             "RaycastDescriptorRva":  134356048
                                          },
                     "RemoteSpy":  {
                                       "BaseRemoteEventVTableRva":  102262040,
@@ -586,7 +548,7 @@
                                   "Volume":  304
                               },
                     "SpawnLocation":  {
-                                          "AllowTeamChangeOnTouch":  496,
+                                          "AllowTeamChangeOnTouch":  61,
                                           "Enabled":  497,
                                           "ForcefieldDuration":  488,
                                           "Neutral":  498,
@@ -598,7 +560,7 @@
                                         "TextureId":  296
                                     },
                     "StatsItem":  {
-                                      "Value":  4241
+                                      "Value":  54890
                                   },
                     "SunRaysEffect":  {
                                           "Enabled":  176,
@@ -630,7 +592,7 @@
                                           "JobName":  24,
                                           "JobStart":  200,
                                           "MaxFPS":  176,
-                                          "Pointer":  146132712
+                                          "Pointer":  146659560
                                       },
                     "Team":  {
                                  "BrickColor":  184
@@ -650,9 +612,9 @@
                                  },
                     "Tool":  {
                                  "CanBeDropped":  1208,
-                                 "Enabled":  1209,
+                                 "Enabled":  1141,
                                  "Grip":  1196,
-                                 "ManualActivationOnly":  1210,
+                                 "ManualActivationOnly":  661,
                                  "RequiresHandle":  1211,
                                  "TextureId":  864,
                                  "Tooltip":  1128
@@ -683,7 +645,7 @@
                     "VisualEngine":  {
                                          "Dimensions":  2832,
                                          "FakeDataModel":  2800,
-                                         "Pointer":  138349064,
+                                         "Pointer":  138868584,
                                          "RenderView":  3120,
                                          "ViewMatrix":  432
                                      },
