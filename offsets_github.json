@@ -42,12 +42,12 @@
                                              "MaxNameLength":  50,
                                              "MaxRealAttributes":  64,
                                              "Mode":  0,
-                                             "TypeRvaBool":  142380656,
-                                             "TypeRvaColor3":  142381776,
-                                             "TypeRvaDouble":  142380976,
-                                             "TypeRvaFloat":  142380736,
-                                             "TypeRvaString":  142381056,
-                                             "TypeRvaVector3":  142381136
+                                             "TypeRvaBool":  145194256,
+                                             "TypeRvaColor3":  145195376,
+                                             "TypeRvaDouble":  145194576,
+                                             "TypeRvaFloat":  145194336,
+                                             "TypeRvaString":  145194656,
+                                             "TypeRvaVector3":  145194736
                                          },
                     "BasePart":  {
                                      "CastShadow":  293,
