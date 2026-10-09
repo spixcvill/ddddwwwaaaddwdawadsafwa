@@ -177,7 +177,7 @@
                                         "BBoxMinY":  156,
                                         "BBoxMinZ":  160,
                                         "ColorData":  36,
-                                        "FastClusterVTableRva":  114675256,
+                                        "FastClusterVTableRva":  114756840,
                                         "FillModeByte":  17,
                                         "Flags2":  32,
                                         "MaterialStride":  136,
@@ -354,15 +354,12 @@
                     "Luau":  {
                                  "Closure::Env":  16,
                                  "GCObject::Memcat":  2,
-                                 "GCObject::Tt":  1,
-                                 "GlobalState::AllGcoPages":  88,
                                  "GlobalState::StrtNuse":  12,
                                  "GlobalState::StrtSize":  8,
                                  "LuaNode::KeyBase":  16,
                                  "LuaNode::KeyTtWord":  12,
                                  "LuaNode::Stride":  32,
                                  "LuaNode::ValTt":  12,
-                                 "LuaState::Global":  32,
                                  "LuaState::Gt":  48,
                                  "LuaState::StackSize":  40,
                                  "Page::BlockSize":  36,
@@ -370,7 +367,7 @@
                                  "Page::Data":  64,
                                  "Page::FreeNext":  48,
                                  "Page::PageSize":  32,
-                                 "ScriptContext::EncryptedState":  128,
+                                 "ScriptContext::EncryptedState":  952,
                                  "Table::Array":  24,
                                  "Table::Gclist":  40,
                                  "Table::Lsizenode":  4,
@@ -513,10 +510,10 @@
                     "RaycastSilentAim":  {
                                              "DescriptorBoundFnOffset":  128,
                                              "DescriptorNamePtrOffset":  8,
-                                             "FindPartOnRayDescriptorRva":  137410768,
-                                             "FindPartOnRayWithIgnoreListDescriptorRva":  137410944,
-                                             "FindPartOnRayWithWhitelistDescriptorRva":  137411120,
-                                             "RaycastDescriptorRva":  137408384
+                                             "FindPartOnRayDescriptorRva":  137778656,
+                                             "FindPartOnRayWithIgnoreListDescriptorRva":  137778848,
+                                             "FindPartOnRayWithWhitelistDescriptorRva":  137779040,
+                                             "RaycastDescriptorRva":  137776048
                                          },
                     "RemoteSpy":  {
                                       "BaseRemoteEventVTableRva":  102262040,
