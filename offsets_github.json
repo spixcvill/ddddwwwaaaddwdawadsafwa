@@ -508,7 +508,7 @@
                                             "RequiresLineOfSight":  295
                                         },
                     "RaycastSilentAim":  {
-                                             "DescriptorBoundFnOffset":  128,
+                                             "DescriptorBoundFnOffset":  144,
                                              "DescriptorNamePtrOffset":  8,
                                              "FindPartOnRayDescriptorRva":  137778656,
                                              "FindPartOnRayWithIgnoreListDescriptorRva":  137778848,
