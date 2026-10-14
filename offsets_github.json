@@ -50,11 +50,11 @@
                                              "TypeRvaVector3":  142381136
                                          },
                     "BasePart":  {
-                                     "CastShadow":  293,
-                                     "Color3":  408,
-                                     "Locked":  294,
-                                     "Massless":  295,
-                                     "Primitive":  376,
+                                     "CastShadow":  296,
+                                     "Color3":  428,
+                                     "Locked":  297,
+                                     "Massless":  298,
+                                     "Primitive":  384,
                                      "Reflectance":  252,
                                      "Shape":  424,
                                      "Transparency":  288
@@ -177,7 +177,7 @@
                                         "BBoxMinY":  156,
                                         "BBoxMinZ":  160,
                                         "ColorData":  36,
-                                        "FastClusterVTableRva":  114756840,
+                                        "FastClusterVTableRva":  116564208,
                                         "FillModeByte":  17,
                                         "Flags2":  32,
                                         "MaterialStride":  136,
@@ -189,18 +189,18 @@
                                         "TechniqueEnd":  8
                                     },
                     "FakeDataModel":  {
-                                          "Pointer":  146603344,
+                                          "Pointer":  148659456,
                                           "RealDataModel":  504
                                       },
                     "FFlagOffsets":  {
-                                         "FFlagList":  145303544,
-                                         "FlagToValue":  192,
+                                         "FFlagList":  147350424,
+                                         "FlagToValue":  32,
                                          "ValueGetSet":  48
                                      },
                     "FFlags":  {
-                                   "GameNetCompressionLodByteBudgetThresholdPct":  132386144,
-                                   "NextGenReplicatorEnabledWrite4":  137708904,
-                                   "PhysicsSenderMaxBandwidthBps":  132376864
+                                   "GameNetCompressionLodByteBudgetThresholdPct":  134377664,
+                                   "NextGenReplicatorEnabledWrite4":  139746008,
+                                   "PhysicsSenderMaxBandwidthBps":  134368400
                                },
                     "GCObject":  {
                                      "Marked":  0,
@@ -240,44 +240,44 @@
                                       "ZIndex":  1428
                                   },
                     "Humanoid":  {
-                                     "AutoJumpEnabled":  452,
-                                     "AutomaticScalingEnabled":  454,
-                                     "AutoRotate":  453,
-                                     "BreakJointsOnDeath":  455,
+                                     "AutoJumpEnabled":  464,
+                                     "AutomaticScalingEnabled":  466,
+                                     "AutoRotate":  465,
+                                     "BreakJointsOnDeath":  467,
                                      "CameraOffset":  280,
-                                     "DisplayDistanceType":  368,
+                                     "DisplayDistanceType":  380,
                                      "DisplayName":  168,
-                                     "EvaluateStateMachine":  456,
-                                     "FloorMaterial":  372,
-                                     "Health":  384,
-                                     "HealthDisplayDistance":  376,
-                                     "HealthDisplayType":  380,
-                                     "HipHeight":  388,
-                                     "HumanoidRootPart":  1120,
-                                     "HumanoidState":  2216,
+                                     "EvaluateStateMachine":  468,
+                                     "FloorMaterial":  384,
+                                     "Health":  396,
+                                     "HealthDisplayDistance":  388,
+                                     "HealthDisplayType":  392,
+                                     "HipHeight":  400,
+                                     "HumanoidRootPart":  1128,
+                                     "HumanoidState":  2224,
                                      "HumanoidStateID":  32,
-                                     "IsWalking":  2599,
-                                     "Jump":  458,
-                                     "JumpHeight":  400,
-                                     "JumpPower":  404,
-                                     "MaxHealth":  408,
-                                     "MaxSlopeAngle":  412,
-                                     "MoveDirection":  304,
+                                     "IsWalking":  2607,
+                                     "Jump":  471,
+                                     "JumpHeight":  412,
+                                     "JumpPower":  416,
+                                     "MaxHealth":  420,
+                                     "MaxSlopeAngle":  424,
+                                     "MoveDirection":  316,
                                      "MoveToPart":  264,
-                                     "MoveToPoint":  340,
-                                     "NameDisplayDistance":  416,
-                                     "NameOcclusion":  420,
-                                     "PlatformStand":  460,
+                                     "MoveToPoint":  352,
+                                     "NameDisplayDistance":  428,
+                                     "NameOcclusion":  432,
+                                     "PlatformStand":  473,
                                      "PlatformStatePointer":  92349479,
-                                     "RequiresNeck":  461,
-                                     "RigType":  432,
+                                     "RequiresNeck":  474,
+                                     "RigType":  444,
                                      "SeatPart":  248,
-                                     "Sit":  461,
-                                     "TargetPoint":  316,
-                                     "UseJumpPower":  464,
-                                     "Walkspeed":  448,
-                                     "WalkspeedCheck":  924,
-                                     "WalkTimer":  0
+                                     "Sit":  474,
+                                     "TargetPoint":  328,
+                                     "UseJumpPower":  477,
+                                     "Walkspeed":  460,
+                                     "WalkspeedCheck":  932,
+                                     "WalkTimer":  1008
                                  },
                     "Instance":  {
                                      "ChildrenEnd":  8,
@@ -354,12 +354,15 @@
                     "Luau":  {
                                  "Closure::Env":  16,
                                  "GCObject::Memcat":  2,
+                                 "GCObject::Tt":  1,
+                                 "GlobalState::AllGcoPages":  2016,
                                  "GlobalState::StrtNuse":  12,
                                  "GlobalState::StrtSize":  8,
                                  "LuaNode::KeyBase":  16,
                                  "LuaNode::KeyTtWord":  12,
                                  "LuaNode::Stride":  32,
                                  "LuaNode::ValTt":  12,
+                                 "LuaState::Global":  16,
                                  "LuaState::Gt":  48,
                                  "LuaState::StackSize":  40,
                                  "Page::BlockSize":  36,
@@ -367,7 +370,7 @@
                                  "Page::Data":  64,
                                  "Page::FreeNext":  48,
                                  "Page::PageSize":  32,
-                                 "ScriptContext::EncryptedState":  952,
+                                 "ScriptContext::EncryptedState":  424,
                                  "Table::Array":  24,
                                  "Table::Gclist":  40,
                                  "Table::Lsizenode":  4,
@@ -421,7 +424,7 @@
                               },
                     "ModuleScript":  {
                                          "ByteCode":  0,
-                                         "GUID":  848,
+                                         "GUID":  192,
                                          "Hash":  848,
                                          "IsCoreScript":  0
                                      },
@@ -458,23 +461,23 @@
                                             "ZOffset":  596
                                         },
                     "Player":  {
-                                   "AccountAge":  844,
-                                   "CameraMode":  864,
+                                   "AccountAge":  860,
+                                   "CameraMode":  880,
                                    "DisplayName":  296,
-                                   "HealthDisplayDistance":  900,
+                                   "HealthDisplayDistance":  916,
                                    "LocaleId":  264,
                                    "LocalPlayer":  288,
-                                   "MaxZoomDistance":  856,
-                                   "MinZoomDistance":  860,
-                                   "ModelInstance":  648,
-                                   "Mouse":  4616,
-                                   "NameDisplayDistance":  916,
-                                   "Team":  712,
-                                   "TeamColor":  928,
+                                   "MaxZoomDistance":  872,
+                                   "MinZoomDistance":  876,
+                                   "ModelInstance":  664,
+                                   "Mouse":  4632,
+                                   "NameDisplayDistance":  932,
+                                   "Team":  728,
+                                   "TeamColor":  944,
                                    "UserId":  192
                                },
                     "PlayerConfigurer":  {
-                                             "Pointer":  145001664
+                                             "Pointer":  145493936
                                          },
                     "PlayerMouse":  {
                                         "Icon":  184,
@@ -483,12 +486,12 @@
                     "Primitive":  {
                                       "AssemblyAngularVelocity":  236,
                                       "AssemblyLinearVelocity":  224,
-                                      "Flags":  438,
+                                      "Flags":  446,
                                       "Material":  0,
-                                      "Owner":  528,
+                                      "Owner":  536,
                                       "Position":  212,
                                       "Rotation":  176,
-                                      "Size":  444,
+                                      "Size":  452,
                                       "Validate":  6
                                   },
                     "PrimitiveFlags":  {
@@ -510,10 +513,10 @@
                     "RaycastSilentAim":  {
                                              "DescriptorBoundFnOffset":  144,
                                              "DescriptorNamePtrOffset":  8,
-                                             "FindPartOnRayDescriptorRva":  137778656,
-                                             "FindPartOnRayWithIgnoreListDescriptorRva":  137778848,
-                                             "FindPartOnRayWithWhitelistDescriptorRva":  137779040,
-                                             "RaycastDescriptorRva":  137776048
+                                             "FindPartOnRayDescriptorRva":  139812448,
+                                             "FindPartOnRayWithIgnoreListDescriptorRva":  139812640,
+                                             "FindPartOnRayWithWhitelistDescriptorRva":  139812832,
+                                             "RaycastDescriptorRva":  139809824
                                          },
                     "RemoteSpy":  {
                                       "BaseRemoteEventVTableRva":  102262040,
@@ -535,8 +538,8 @@
                                        "VisualEngine":  0
                                    },
                     "RunService":  {
-                                       "HeartbeatFPS":  225,
-                                       "HeartbeatTask":  25400
+                                       "HeartbeatFPS":  192,
+                                       "HeartbeatTask":  224
                                    },
                     "Script":  {
                                    "ByteCode":  0,
@@ -578,7 +581,7 @@
                                   "Volume":  288
                               },
                     "SpawnLocation":  {
-                                          "AllowTeamChangeOnTouch":  480,
+                                          "AllowTeamChangeOnTouch":  61,
                                           "Enabled":  481,
                                           "ForcefieldDuration":  472,
                                           "Neutral":  482,
@@ -622,7 +625,7 @@
                                           "JobName":  24,
                                           "JobStart":  200,
                                           "MaxFPS":  176,
-                                          "Pointer":  146247976
+                                          "Pointer":  148303944
                                       },
                     "Team":  {
                                  "BrickColor":  168
@@ -644,7 +647,7 @@
                                  "CanBeDropped":  1192,
                                  "Enabled":  1193,
                                  "Grip":  1180,
-                                 "ManualActivationOnly":  1194,
+                                 "ManualActivationOnly":  837,
                                  "RequiresHandle":  1195,
                                  "TextureId":  848,
                                  "Tooltip":  1112
@@ -675,8 +678,8 @@
                     "VisualEngine":  {
                                          "Dimensions":  2832,
                                          "FakeDataModel":  2800,
-                                         "Pointer":  140865088,
-                                         "RenderView":  3120,
+                                         "Pointer":  142909616,
+                                         "RenderView":  3128,
                                          "ViewMatrix":  432
                                      },
                     "Weld":  {
@@ -699,10 +702,10 @@
                                   },
                     "World":  {
                                   "AirProperties":  568,
-                                  "FallenPartsDestroyHeight":  536,
-                                  "Gravity":  548,
+                                  "FallenPartsDestroyHeight":  532,
+                                  "Gravity":  544,
                                   "Primitives":  712,
-                                  "worldStepsPerSec":  1856
+                                  "worldStepsPerSec":  2176
                               }
                 }
 }
