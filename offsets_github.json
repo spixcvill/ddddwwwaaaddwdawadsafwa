@@ -100,10 +100,10 @@
       "ViewportSize": 716
     },
     "CharacterMesh": {
-      "BaseTextureId": 168,
+      "BaseTextureId": 184,
       "BodyPart": 312,
-      "MeshId": 216,
-      "OverlayTextureId": 264
+      "MeshId": 232,
+      "OverlayTextureId": 280
     },
     "ClickDetector": {
       "MaxActivationDistance": 216,
@@ -562,7 +562,7 @@
       "VisualEngine": 24
     },
     "RunService": {
-      "HeartbeatFPS": 200,
+      "HeartbeatFPS": 136,
       "HeartbeatTask": 224
     },
     "Script": {
@@ -670,8 +670,8 @@
       "WaterWaveSpeed": 500
     },
     "Textures": {
-      "Decal_Texture": 272,
-      "Texture_Texture": 272
+      "Decal_Texture": 464,
+      "Texture_Texture": 464
     },
     "Tool": {
       "CanBeDropped": 1192,
