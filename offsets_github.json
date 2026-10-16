@@ -391,6 +391,30 @@
       "Udata::Data0": 24,
       "Udata::Data1": 32
     },
+    "LuauVm": {
+      "GcTt": 0,
+      "GlobalPages": 792,
+      "NodeKey": 16,
+      "NodeKeyTt": 12,
+      "NodeStride": 32,
+      "NodeValTt": 12,
+      "PageBlockSize": 36,
+      "PageSize": 32,
+      "StateGlobal": 80,
+      "StateGt": 128,
+      "StateSlot": 1024,
+      "StateVariant": 4,
+      "StrtHash": 80,
+      "StrtNuse": 92,
+      "StrtSize": 88,
+      "TStringData": 24,
+      "TStringLen": 20,
+      "TStringNext": 8,
+      "TableLsizenode": 3,
+      "TableNode": 40,
+      "TagString": 6,
+      "TagTable": 7
+    },
     "MaterialColors": {
       "Asphalt": 48,
       "Basalt": 39,
@@ -552,7 +576,7 @@
     },
     "RenderJob": {
       "FakeDataModel": 408,
-      "RealDataModel": 496,
+      "RealDataModel": 744,
       "RenderView": 480
     },
     "RenderView": {
