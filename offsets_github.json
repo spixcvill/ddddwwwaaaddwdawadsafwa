@@ -87,7 +87,7 @@
     },
     "ByteCode": {
       "Pointer": 16,
-      "Size": 40
+      "Size": 32
     },
     "Camera": {
       "CameraSubject": 176,
@@ -342,7 +342,7 @@
       "SunPosition": 352
     },
     "LocalScript": {
-      "ByteCode": -8,
+      "ByteCode": 376,
       "GUID": 184,
       "Hash": 392
     },
@@ -466,10 +466,10 @@
       "Scale": 300
     },
     "ModuleScript": {
-      "ByteCode": -8,
+      "ByteCode": 288,
       "GUID": 184,
       "Hash": 840,
-      "IsCoreScript": -8
+      "IsCoreScript": 0
     },
     "Motor6D": {
       "ChildName": 280,
@@ -590,7 +590,7 @@
       "HeartbeatTask": 216
     },
     "Script": {
-      "ByteCode": -8,
+      "ByteCode": 376,
       "GUID": 184,
       "Hash": 392
     },
