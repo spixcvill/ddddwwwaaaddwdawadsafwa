@@ -100,10 +100,10 @@
       "ViewportSize": 708
     },
     "CharacterMesh": {
-      "BaseTextureId": 184,
-      "BodyPart": 312,
-      "MeshId": 232,
-      "OverlayTextureId": 280
+      "BaseTextureId": 176,
+      "BodyPart": 304,
+      "MeshId": 224,
+      "OverlayTextureId": 272
     },
     "ClickDetector": {
       "MaxActivationDistance": 216,
@@ -320,7 +320,7 @@
     "Lighting": {
       "Ambient": 184,
       "Brightness": 256,
-      "ClockTime": 192,
+      "ClockTime": 136,
       "ColorShift_Bottom": 196,
       "ColorShift_Top": 208,
       "EnvironmentDiffuseScale": 260,
@@ -440,7 +440,7 @@
     },
     "MeshContentProvider": {
       "AssetID": 16,
-      "Cache": 200,
+      "Cache": 192,
       "LRUCache": 32,
       "MeshData": 64,
       "ToMeshData": 64
@@ -452,8 +452,8 @@
       "VertexStart": 0
     },
     "MeshPart": {
-      "MeshId": 768,
-      "Texture": 816
+      "MeshId": 760,
+      "Texture": 808
     },
     "Misc": {
       "Adornee": 224,
@@ -638,10 +638,10 @@
     "SpecialMesh": {
       "MeshId": 224,
       "Scale": 172,
-      "TextureId": 296
+      "TextureId": 272
     },
     "StatsItem": {
-      "Value": 1280
+      "Value": 152
     },
     "SunRaysEffect": {
       "Enabled": 152,
