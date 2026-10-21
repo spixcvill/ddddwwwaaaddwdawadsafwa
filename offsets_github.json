@@ -393,7 +393,7 @@
     },
     "LuauVm": {
       "GcTt": 2,
-      "GlobalPages": 480,
+      "GlobalPages": 792,
       "NodeKey": 16,
       "NodeKeyTt": 12,
       "NodeStride": 32,
