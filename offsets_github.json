@@ -582,7 +582,7 @@
     "RenderView": {
       "DeviceD3D11": 8,
       "LightingValid": 632,
-      "SkyValid": 732,
+      "SkyValid": 1205,
       "VisualEngine": 24
     },
     "RunService": {
