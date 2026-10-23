@@ -59,7 +59,7 @@
       "Massless": 290,
       "Primitive": 376,
       "Reflectance": 244,
-      "Shape": 424,
+      "Shape": 416,
       "Transparency": 280
     },
     "Beam": {
@@ -120,7 +120,7 @@
     },
     "Clothing": {
       "Color3": 264,
-      "Template": 240
+      "Template": 232
     },
     "ColorCorrectionEffect": {
       "Brightness": 172,
