@@ -8,13 +8,15 @@
     "AnimationTrack": {
       "Animation": 160,
       "Animator": 248,
-      "IsPlaying": 2624,
+      "Clip": 352,
+      "IsPlaying": 204,
       "Looped": 205,
+      "LoopedSet": 2577,
       "Speed": 188,
       "TimePosition": 192
     },
     "Animator": {
-      "ActiveAnimations": 2688
+      "ActiveAnimations": 2304
     },
     "Atmosphere": {
       "Color": 160,
@@ -316,6 +318,9 @@
       "SetCreator": 78226240,
       "SetParent": 78226832,
       "VTableSlot_Create": 0
+    },
+    "KeyframeSequence": {
+      "Loop": 180
     },
     "Lighting": {
       "Ambient": 184,
