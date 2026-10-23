@@ -21,13 +21,13 @@
     "Atmosphere": {
       "Color": 160,
       "Decay": 172,
-      "Density": 200,
+      "Density": 184,
       "Glare": 188,
       "Haze": 192,
       "Offset": 196
     },
     "Attachment": {
-      "Position": 180
+      "Position": 172
     },
     "AttributeStorage": {
       "ArrayBegin": 8,
@@ -108,8 +108,8 @@
       "OverlayTextureId": 272
     },
     "ClickDetector": {
-      "MaxActivationDistance": 216,
-      "MouseIcon": 184
+      "MaxActivationDistance": 208,
+      "MouseIcon": 176
     },
     "ClientBuild": {
       "ImageSize": 155934720,
@@ -164,17 +164,17 @@
       "NearIntensity": 172
     },
     "DragDetector": {
-      "ActivatedCursorIcon": 432,
-      "CursorIcon": 184,
-      "MaxActivationDistance": 216,
-      "MaxDragAngle": 664,
-      "MaxDragTranslation": 604,
-      "MaxForce": 668,
-      "MaxTorque": 672,
-      "MinDragAngle": 676,
-      "MinDragTranslation": 616,
-      "ReferenceInstance": 480,
-      "Responsiveness": 688
+      "ActivatedCursorIcon": 424,
+      "CursorIcon": 176,
+      "MaxActivationDistance": 208,
+      "MaxDragAngle": 656,
+      "MaxDragTranslation": 596,
+      "MaxForce": 676,
+      "MaxTorque": 664,
+      "MinDragAngle": 668,
+      "MinDragTranslation": 608,
+      "ReferenceInstance": 472,
+      "Responsiveness": 680
     },
     "EngineChams": {
       "BBoxMaxX": 164,
@@ -477,8 +477,8 @@
       "IsCoreScript": 0
     },
     "Motor6D": {
-      "ChildName": 280,
-      "ParentName": 264,
+      "ChildName": 272,
+      "ParentName": 256,
       "Transform": 296
     },
     "MouseService": {
@@ -690,13 +690,13 @@
       "BrickColor": 160
     },
     "Terrain": {
-      "GrassLength": 480,
-      "MaterialColors": 1192,
-      "WaterColor": 464,
-      "WaterReflectance": 488,
-      "WaterTransparency": 492,
-      "WaterWaveSize": 496,
-      "WaterWaveSpeed": 500
+      "GrassLength": 472,
+      "MaterialColors": 1184,
+      "WaterColor": 456,
+      "WaterReflectance": 480,
+      "WaterTransparency": 484,
+      "WaterWaveSize": 488,
+      "WaterWaveSpeed": 492
     },
     "Textures": {
       "Decal_Texture": 456,
@@ -716,7 +716,7 @@
       "Data1": 32
     },
     "UnionOperation": {
-      "AssetId": 768
+      "AssetId": 760
     },
     "UserInputService": {
       "WindowInputState": 688
@@ -736,8 +736,8 @@
       "ViewMatrix": 432
     },
     "Weld": {
-      "Part0": 264,
-      "Part1": 280
+      "Part0": 256,
+      "Part1": 272
     },
     "WeldConstraint": {
       "Part0": 168,
