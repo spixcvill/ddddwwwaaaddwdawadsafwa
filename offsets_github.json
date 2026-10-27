@@ -54,7 +54,7 @@
     },
     "BasePart": {
       "CastShadow": 288,
-      "Color3": 18,
+      "Color3": 420,
       "Locked": 289,
       "Massless": 290,
       "Primitive": 376,
@@ -95,7 +95,7 @@
       "CameraSubject": 176,
       "CameraType": 288,
       "FieldOfView": 296,
-      "ImagePlaneDepth": 716,
+      "ImagePlaneDepth": 724,
       "Position": 228,
       "Rotation": 192,
       "Viewport": 644,
@@ -144,7 +144,7 @@
     "DataModel": {
       "CreatorId": 368,
       "GameId": 376,
-      "GameLoaded": 1480,
+      "GameLoaded": 1416,
       "JobId": 264,
       "PlaceId": 384,
       "PlaceVersion": 412,
@@ -234,7 +234,7 @@
       "BackgroundColor3": 1288,
       "BackgroundTransparency": 1324,
       "BorderColor3": 1300,
-      "Image": 16,
+      "Image": 2472,
       "LayoutOrder": 1348,
       "Position": 1240,
       "RichText": 3829,
@@ -263,7 +263,7 @@
       "HumanoidRootPart": 1120,
       "HumanoidState": 2216,
       "HumanoidStateID": 32,
-      "IsWalking": 2599,
+      "IsWalking": 2606,
       "Jump": 464,
       "JumpHeight": 404,
       "JumpPower": 408,
@@ -525,10 +525,10 @@
       "LocaleId": 1856,
       "MaxZoomDistance": 880,
       "MinZoomDistance": 884,
-      "ModelInstance": 656,
+      "ModelInstance": 672,
       "Mouse": 4592,
       "NameDisplayDistance": 944,
-      "Team": 720,
+      "Team": 736,
       "TeamColor": 952,
       "UserId": 792
     },
@@ -594,7 +594,7 @@
       "VisualEngine": 24
     },
     "RunService": {
-      "HeartbeatFPS": 192,
+      "HeartbeatFPS": 244,
       "HeartbeatTask": 216
     },
     "Script": {
@@ -708,7 +708,7 @@
     "Tool": {
       "CanBeDropped": 1184,
       "Enabled": 1185,
-      "Grip": 1136,
+      "Grip": 1172,
       "ManualActivationOnly": 1186,
       "RequiresHandle": 1187,
       "TextureId": 840,
@@ -722,7 +722,7 @@
       "AssetId": 760
     },
     "UserInputService": {
-      "WindowInputState": 680
+      "WindowInputState": 648
     },
     "VehicleSeat": {
       "MaxSpeed": 528,
@@ -758,7 +758,7 @@
     },
     "World": {
       "AirProperties": 560,
-      "FallenPartsDestroyHeight": 528,
+      "FallenPartsDestroyHeight": 524,
       "Gravity": 536,
       "Primitives": 672,
       "worldStepsPerSec": 2136
