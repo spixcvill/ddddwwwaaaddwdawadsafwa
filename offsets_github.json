@@ -403,7 +403,7 @@
       "GcTt": 1,
       "GlobalPages": 88,
       "NodeKey": 16,
-      "NodeKeyTt": 8,
+      "NodeKeyTt": 12,
       "NodeStride": 32,
       "NodeValTt": 12,
       "PageBlockSize": 36,
@@ -708,7 +708,7 @@
     "Tool": {
       "CanBeDropped": 1184,
       "Enabled": 1185,
-      "Grip": 1172,
+      "Grip": 1136,
       "ManualActivationOnly": 1186,
       "RequiresHandle": 1187,
       "TextureId": 840,
