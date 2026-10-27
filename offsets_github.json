@@ -347,7 +347,7 @@
       "SunPosition": 352
     },
     "LinearVelocity": {
-      "VectorVelocity": 0
+      "VectorVelocity": 556
     },
     "LocalScript": {
       "ByteCode": 376,
@@ -403,7 +403,7 @@
       "GcTt": 1,
       "GlobalPages": 88,
       "NodeKey": 16,
-      "NodeKeyTt": 8,
+      "NodeKeyTt": 12,
       "NodeStride": 32,
       "NodeValTt": 12,
       "PageBlockSize": 36,
