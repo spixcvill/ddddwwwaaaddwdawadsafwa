@@ -2,8 +2,8 @@
   "Version": "version-5a21b87bbc2641cf",
   "Offsets": {
     "AirProperties": {
-      "AirDensity": 24,
-      "GlobalWind": 60
+      "AirDensity": 56,
+      "GlobalWind": 92
     },
     "AnimationTrack": {
       "Animation": 160,
@@ -403,7 +403,7 @@
       "GcTt": 1,
       "GlobalPages": 88,
       "NodeKey": 16,
-      "NodeKeyTt": 12,
+      "NodeKeyTt": 8,
       "NodeStride": 32,
       "NodeValTt": 12,
       "PageBlockSize": 36,
@@ -758,7 +758,7 @@
     },
     "World": {
       "AirProperties": 560,
-      "FallenPartsDestroyHeight": 524,
+      "FallenPartsDestroyHeight": 528,
       "Gravity": 536,
       "Primitives": 672,
       "worldStepsPerSec": 2136
