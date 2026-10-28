@@ -184,7 +184,7 @@
       "BBoxMinY": 156,
       "BBoxMinZ": 160,
       "ColorData": 36,
-      "FastClusterVTableRva": 117863528,
+      "FastClusterVTableRva": 117190832,
       "FillModeByte": 17,
       "Flags2": 32,
       "MatFlags": 24,
@@ -403,7 +403,7 @@
       "GcTt": 1,
       "GlobalPages": 88,
       "NodeKey": 16,
-      "NodeKeyTt": 12,
+      "NodeKeyTt": 8,
       "NodeStride": 32,
       "NodeValTt": 12,
       "PageBlockSize": 36,
@@ -567,12 +567,12 @@
       "RequiresLineOfSight": 287
     },
     "RaycastSilentAim": {
-      "DescriptorBoundFnOffset": 144,
+      "DescriptorBoundFnOffset": 176,
       "DescriptorNamePtrOffset": 8,
-      "FindPartOnRayDescriptorRva": 141432720,
-      "FindPartOnRayWithIgnoreListDescriptorRva": 141432912,
-      "FindPartOnRayWithWhitelistDescriptorRva": 141433104,
-      "RaycastDescriptorRva": 141430096
+      "FindPartOnRayDescriptorRva": 139025296,
+      "FindPartOnRayWithIgnoreListDescriptorRva": 139025520,
+      "FindPartOnRayWithWhitelistDescriptorRva": 139025744,
+      "RaycastDescriptorRva": 139022320
     },
     "RemoteSpy": {
       "BaseRemoteEventVTableRva": 102262040,
