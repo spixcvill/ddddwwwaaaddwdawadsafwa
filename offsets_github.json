@@ -54,7 +54,7 @@
     },
     "BasePart": {
       "CastShadow": 288,
-      "Color3": 420,
+      "Color3": 284,
       "Locked": 289,
       "Massless": 290,
       "Primitive": 376,
