@@ -1,5 +1,5 @@
 {
-  "Version": "version-5a21b87bbc2641cf",
+  "Version": "version-f0ea5da9412f4e35",
   "Offsets": {
     "AirProperties": {
       "AirDensity": 56,
@@ -45,12 +45,12 @@
       "MaxNameLength": 50,
       "MaxRealAttributes": 64,
       "Mode": 0,
-      "TypeRvaBool": 147358336,
-      "TypeRvaColor3": 147359456,
-      "TypeRvaDouble": 147358656,
-      "TypeRvaFloat": 147358416,
-      "TypeRvaString": 147358736,
-      "TypeRvaVector3": 147358816
+      "TypeRvaBool": 149103248,
+      "TypeRvaColor3": 149104368,
+      "TypeRvaDouble": 149103568,
+      "TypeRvaFloat": 149103328,
+      "TypeRvaString": 149103648,
+      "TypeRvaVector3": 149103728
     },
     "BasePart": {
       "CastShadow": 288,
@@ -112,8 +112,8 @@
       "MouseIcon": 176
     },
     "ClientBuild": {
-      "ImageSize": 153264128,
-      "Timestamp": 2286735957
+      "ImageSize": 155062272,
+      "Timestamp": 81470209
     },
     "Closure": {
       "Env": 16
@@ -184,7 +184,7 @@
       "BBoxMinY": 156,
       "BBoxMinZ": 160,
       "ColorData": 36,
-      "FastClusterVTableRva": 117190832,
+      "FastClusterVTableRva": 118803184,
       "FillModeByte": 17,
       "Flags2": 32,
       "MatFlags": 24,
@@ -196,17 +196,17 @@
       "TechniqueEnd": 8
     },
     "FFlagOffsets": {
-      "FFlagList": 138328648,
+      "FFlagList": 140048616,
       "FlagToValue": 32,
       "ValueGetSet": 48
     },
     "FFlags": {
-      "GameNetCompressionLodByteBudgetThresholdPct": 134224008,
-      "NextGenReplicatorEnabledWrite4": 133956464,
-      "PhysicsSenderMaxBandwidthBps": 134219608
+      "GameNetCompressionLodByteBudgetThresholdPct": 135932384,
+      "NextGenReplicatorEnabledWrite4": 135665216,
+      "PhysicsSenderMaxBandwidthBps": 135927896
     },
     "FakeDataModel": {
-      "Pointer": 147875328,
+      "Pointer": 149645664,
       "RealDataModel": 504
     },
     "GCObject": {
@@ -239,7 +239,7 @@
       "Position": 1240,
       "RichText": 3829,
       "Rotation": 1372,
-      "ScreenGui_Enabled": 1164,
+      "ScreenGui_Enabled": 1168,
       "Size": 1272,
       "Text": 3720,
       "TextColor3": 3768,
@@ -533,7 +533,7 @@
       "UserId": 792
     },
     "PlayerConfigurer": {
-      "Pointer": 146670384
+      "Pointer": 148411008
     },
     "PlayerMouse": {
       "Icon": 176,
@@ -569,10 +569,10 @@
     "RaycastSilentAim": {
       "DescriptorBoundFnOffset": 176,
       "DescriptorNamePtrOffset": 8,
-      "FindPartOnRayDescriptorRva": 139025296,
-      "FindPartOnRayWithIgnoreListDescriptorRva": 139025520,
-      "FindPartOnRayWithWhitelistDescriptorRva": 139025744,
-      "RaycastDescriptorRva": 139022320
+      "FindPartOnRayDescriptorRva": 140764848,
+      "FindPartOnRayWithIgnoreListDescriptorRva": 140765072,
+      "FindPartOnRayWithWhitelistDescriptorRva": 140765296,
+      "RaycastDescriptorRva": 140761872
     },
     "RemoteSpy": {
       "BaseRemoteEventVTableRva": 102262040,
@@ -588,10 +588,10 @@
       "RenderView": 480
     },
     "RenderView": {
-      "DeviceD3D11": 8,
-      "LightingValid": 632,
-      "SkyValid": 1205,
-      "VisualEngine": 24
+      "DeviceD3D11": 16,
+      "LightingValid": 640,
+      "SkyValid": 1213,
+      "VisualEngine": 32
     },
     "RunService": {
       "HeartbeatFPS": 244,
@@ -612,6 +612,21 @@
     "Seat": {
       "Occupant": 512
     },
+    "ShaderSky": {
+      "CtxMap": 14,
+      "CtxPSSetConstantBuffers": 16,
+      "CtxPSSetShader": 9,
+      "CtxUnmap": 15,
+      "DevCreateBuffer": 3,
+      "DevCreatePixelShader": 15,
+      "RenderViewAltA": 3152,
+      "RenderViewAltB": 3152,
+      "VisualEnginePtrAltA": 143928888,
+      "VisualEnginePtrAltB": 143928888,
+      "WrapContextPtr": 384,
+      "WrapContextPtrAlt": 432,
+      "WrapDevicePtr": 376
+    },
     "Sky": {
       "MoonAngularSize": 556,
       "MoonTextureId": 176,
@@ -627,14 +642,14 @@
       "SunTextureId": 512
     },
     "Sound": {
-      "IsPlaying": 296,
-      "Looped": 293,
-      "PlaybackSpeed": 260,
-      "RollOffMaxDistance": 264,
-      "RollOffMinDistance": 268,
+      "IsPlaying": 304,
+      "Looped": 301,
+      "PlaybackSpeed": 268,
+      "RollOffMaxDistance": 272,
+      "RollOffMinDistance": 276,
       "SoundGroup": 208,
       "SoundId": 176,
-      "Volume": 280
+      "Volume": 288
     },
     "SpawnLocation": {
       "AllowTeamChangeOnTouch": 472,
@@ -687,7 +702,7 @@
       "JobName": 24,
       "JobStart": 200,
       "MaxFPS": 176,
-      "Pointer": 147445400
+      "Pointer": 149215160
     },
     "Team": {
       "BrickColor": 160
@@ -734,8 +749,8 @@
     "VisualEngine": {
       "Dimensions": 2832,
       "FakeDataModel": 2800,
-      "Pointer": 142189080,
-      "RenderView": 3136,
+      "Pointer": 143928888,
+      "RenderView": 3152,
       "ViewMatrix": 432
     },
     "Weld": {
@@ -753,15 +768,15 @@
     "Workspace": {
       "CurrentCamera": 1184,
       "DistributedGameTime": 1216,
-      "ReadOnlyGravity": 2496,
+      "ReadOnlyGravity": 2512,
       "World": 1016
     },
     "World": {
       "AirProperties": 560,
-      "FallenPartsDestroyHeight": 528,
+      "FallenPartsDestroyHeight": 524,
       "Gravity": 536,
       "Primitives": 672,
-      "worldStepsPerSec": 2136
+      "worldStepsPerSec": 2152
     }
   }
 }
