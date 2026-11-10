@@ -656,11 +656,9 @@
       "DescriptorRva": 140691568,
       "DescriptorVtableRva": 117472080,
       "HandlerRva": 54852304,
-      "ImageSize": 155062272,
       "MemberAdjustment": 184,
       "MemberFunction": 176,
-      "Name": 8,
-      "Timestamp": 81470209
+      "Name": 8
     },
     "VisualEngine": {
       "Dimensions": 2832,

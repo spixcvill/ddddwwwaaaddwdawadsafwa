@@ -3,9 +3,9 @@
 // Wrath Dumper
 // Roblox Version : version-f0ea5da9412f4e35
 // Build Stamp    : 0x4DB2301  Image Size : 0x93E1000
-// Total Offsets  : 501
-// Generated      : 2026-11-11 03:28:07
-// Dump Time      : 11.08 seconds
+// Total Offsets  : 499
+// Generated      : 2026-11-11 03:34:58
+// Dump Time      : 11.25 seconds
 
 #include <cstdint>
 #include <string>
@@ -712,11 +712,9 @@ namespace Offsets {
         inline constexpr uintptr_t DescriptorRva = 0x862C870;
         inline constexpr uintptr_t DescriptorVtableRva = 0x7007B50;
         inline constexpr uintptr_t HandlerRva = 0x344FAD0;
-        inline constexpr uintptr_t ImageSize = 0x93E1000;
         inline constexpr uintptr_t MemberAdjustment = 0xB8;
         inline constexpr uintptr_t MemberFunction = 0xB0;
         inline constexpr uintptr_t Name = 0x8;
-        inline constexpr uintptr_t Timestamp = 0x4DB2301;
     }
 
     namespace VisualEngine {
