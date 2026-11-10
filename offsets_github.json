@@ -1,5 +1,35 @@
 {
-  "Version": "version-f0ea5da9412f4e35",
+  "ClientBuild": {
+    "ImageSize": 155062272,
+    "Timestamp": 81470209
+  },
+  "Layouts": {
+    "Motor6D.Transform": {
+      "Formula": "QuaternionToMatrix3 + position",
+      "PointerOffsets": [
+        360
+      ],
+      "PositionOffset": 312,
+      "Storage": "QuaternionXyzwVector3",
+      "ValueOffset": 296
+    },
+    "RunService.HeartbeatFPS": {
+      "Formula": "value > 0 ? 1 / value : 0",
+      "PointerOffsets": [
+        216
+      ],
+      "Storage": "Float64Seconds",
+      "ValueOffset": 136
+    },
+    "RunService.HeartbeatFrameTime": {
+      "Formula": "value",
+      "PointerOffsets": [
+        216
+      ],
+      "Storage": "Float64Seconds",
+      "ValueOffset": 136
+    }
+  },
   "Offsets": {
     "AirProperties": {
       "AirDensity": 56,
@@ -37,8 +67,6 @@
       "EntryTypePtr1": 8,
       "EntryTypePtr2": 16,
       "EntryValue": 24,
-      "HashCountBound": 12,
-      "HashDenseArray": 24,
       "KeyCapacity": 24,
       "KeyChars": 0,
       "KeyLength": 16,
@@ -114,9 +142,6 @@
     "ClientBuild": {
       "ImageSize": 155062272,
       "Timestamp": 81470209
-    },
-    "Closure": {
-      "Env": 16
     },
     "Clothing": {
       "Color3": 264,
@@ -209,22 +234,6 @@
       "Pointer": 149645664,
       "RealDataModel": 504
     },
-    "GCObject": {
-      "Marked": 0,
-      "Memcat": 2,
-      "Tt": 1
-    },
-    "GlobalState": {
-      "AllGcoPages": 568,
-      "AllPages": 112,
-      "FreeGcoPages": 152,
-      "FreePages": 472,
-      "MainThread": 96,
-      "StrtHash": 0,
-      "StrtNuse": 12,
-      "StrtSize": 8,
-      "SweepGcoPage": 104
-    },
     "GuiBase2D": {
       "AbsolutePosition": 244,
       "AbsoluteRotation": 208,
@@ -298,27 +307,6 @@
       "Parent": 96,
       "This": 8
     },
-    "InstanceNew": {
-      "CanonicalNameLookup": 84386352,
-      "ClassDescLookup": 79900256,
-      "ClassDescriptor_lookup": 79900256,
-      "HeartbeatFPS": 244,
-      "HeartbeatStepImpl": 42288896,
-      "HeartbeatStepSlot": 8,
-      "HeartbeatTask": 952,
-      "HeartbeatVtableSlots": 64,
-      "HighlightAdornee": 264,
-      "HighlightDepthMode": 256,
-      "HighlightEnabled": 272,
-      "HighlightFillColor": 224,
-      "HighlightOutlineColor": 236,
-      "HighlightVTableRva": 102502736,
-      "Name_lookup": 84386352,
-      "RunServiceHeartbeat": 240,
-      "SetCreator": 78226240,
-      "SetParent": 78226832,
-      "VTableSlot_Create": 0
-    },
     "KeyframeSequence": {
       "Loop": 180
     },
@@ -354,72 +342,27 @@
       "GUID": 184,
       "Hash": 392
     },
-    "LuaNode": {
-      "KeyBase": 16,
-      "KeyTtWord": 12,
-      "Stride": 32,
-      "ValTt": 12
-    },
-    "LuaState": {
-      "Global": 112,
-      "Gt": 48,
-      "StackSize": 40
-    },
-    "Luau": {
-      "Closure::Env": 16,
-      "GCObject::Memcat": 2,
-      "GCObject::Tt": 1,
-      "GlobalState::AllGcoPages": 2016,
-      "GlobalState::StrtNuse": 12,
-      "GlobalState::StrtSize": 8,
-      "LuaNode::KeyBase": 16,
-      "LuaNode::KeyTtWord": 12,
-      "LuaNode::Stride": 32,
-      "LuaNode::ValTt": 12,
-      "LuaState::Global": 16,
-      "LuaState::Gt": 48,
-      "LuaState::StackSize": 40,
-      "Page::BlockSize": 36,
-      "Page::BusyBlocks": 52,
-      "Page::Data": 64,
-      "Page::FreeNext": 48,
-      "Page::PageSize": 32,
-      "ScriptContext::EncryptedState": 424,
-      "TString::Data": 24,
-      "TString::Hash": 16,
-      "TString::Len": 20,
-      "TString::Next": 8,
-      "Table::Array": 24,
-      "Table::Gclist": 40,
-      "Table::Lsizenode": 4,
-      "Table::Metatable": 32,
-      "Table::Node": 16,
-      "Table::Safeenv": 3,
-      "Table::SizeArray": 8,
-      "Udata::Data0": 24,
-      "Udata::Data1": 32
-    },
     "LuauVm": {
       "GcTt": 1,
-      "GlobalPages": 88,
+      "GlobalPages": 168,
       "NodeKey": 16,
       "NodeKeyTt": 12,
       "NodeStride": 32,
       "NodeValTt": 12,
       "PageBlockSize": 36,
       "PageSize": 32,
-      "StateGlobal": 56,
-      "StateGt": 128,
-      "StateSlot": 544,
-      "StateVariant": 3,
-      "StrtHash": 0,
-      "StrtNuse": 8,
-      "StrtSize": 12,
+      "StateGlobal": 80,
+      "StateGt": 16,
+      "StateSlot": 528,
+      "StateVariant": 1,
+      "StrtHash": 80,
+      "StrtNuse": 68,
+      "StrtSize": 72,
       "TStringData": 24,
       "TStringLen": 20,
       "TStringNext": 8,
-      "TableLsizenode": 4,
-      "TableNode": 24,
+      "TableLsizenode": 7,
+      "TableNode": 32,
       "TagString": 6,
       "TagTable": 7
     },
@@ -482,22 +425,15 @@
     "Motor6D": {
       "ChildName": 272,
       "ParentName": 256,
-      "Transform": 296
+      "Transform": 296,
+      "TransformObject": 360,
+      "TransformPosition": 312
     },
     "MouseService": {
       "InputObject": 216,
       "InputObject2": 232,
       "MousePosition": 172,
       "SensitivityPointer": 0
-    },
-    "Page": {
-      "BlockSize": 36,
-      "BusyBlocks": 52,
-      "Data": 64,
-      "FreeNext": 48,
-      "ListNext": 8,
-      "ListPrev": 0,
-      "PageSize": 32
     },
     "ParticleEmitter": {
       "Acceleration": 456,
@@ -574,14 +510,6 @@
       "FindPartOnRayWithWhitelistDescriptorRva": 140765296,
       "RaycastDescriptorRva": 140761872
     },
-    "RemoteSpy": {
-      "BaseRemoteEventVTableRva": 102262040,
-      "DescBaseRemoteVTableRva": 102261384,
-      "FireServerRva": 41216752,
-      "InstanceVTableRva": 106016464,
-      "RemoteEventVTableRva": 102604144,
-      "RemoteFuncVTableRva": 102589208
-    },
     "RenderJob": {
       "FakeDataModel": 408,
       "RealDataModel": 496,
@@ -594,7 +522,8 @@
       "VisualEngine": 32
     },
     "RunService": {
-      "HeartbeatFPS": 244,
+      "HeartbeatFPS": 136,
+      "HeartbeatFrameTime": 136,
       "HeartbeatTask": 216
     },
     "Script": {
@@ -603,10 +532,6 @@
       "Hash": 392
     },
     "ScriptContext": {
-      "EncryptedState": 1344,
-      "EncryptedStateAlt": 1120,
-      "EncryptedStateAlt2": 1664,
-      "EncryptedStateAlt3": 1672,
       "RequireBypass": 0
     },
     "Seat": {
@@ -682,21 +607,6 @@
       "NormalMap": 320,
       "RoughnessMap": 368
     },
-    "TString": {
-      "Data": 24,
-      "Hash": 16,
-      "Len": 20,
-      "Next": 8
-    },
-    "Table": {
-      "Array": 24,
-      "Gclist": 40,
-      "Lsizenode": 4,
-      "Metatable": 32,
-      "Node": 16,
-      "Safeenv": 3,
-      "SizeArray": 8
-    },
     "TaskScheduler": {
       "JobEnd": 208,
       "JobName": 24,
@@ -729,10 +639,6 @@
       "TextureId": 840,
       "Tooltip": 1104
     },
-    "Udata": {
-      "Data0": 24,
-      "Data1": 32
-    },
     "UnionOperation": {
       "AssetId": 760
     },
@@ -745,6 +651,16 @@
       "ThrottleFloat": 536,
       "Torque": 540,
       "TurnSpeed": 544
+    },
+    "ViewportRay": {
+      "DescriptorRva": 140691568,
+      "DescriptorVtableRva": 117472080,
+      "HandlerRva": 54852304,
+      "ImageSize": 155062272,
+      "MemberAdjustment": 184,
+      "MemberFunction": 176,
+      "Name": 8,
+      "Timestamp": 81470209
     },
     "VisualEngine": {
       "Dimensions": 2832,
@@ -778,5 +694,6 @@
       "Primitives": 672,
       "worldStepsPerSec": 2152
     }
-  }
+  },
+  "Version": "version-f0ea5da9412f4e35"
 }
