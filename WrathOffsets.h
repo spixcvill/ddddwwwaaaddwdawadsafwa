@@ -3,9 +3,9 @@
 // Wrath Dumper
 // Roblox Version : version-4ea8e85481e34f46
 // Build Stamp    : 0x24D48AF  Image Size : 0x94C2000
-// Total Offsets  : 498
-// Generated      : 2026-11-11 19:10:07
-// Dump Time      : 5.91 seconds
+// Total Offsets  : 499
+// Generated      : 2026-11-11 19:25:43
+// Dump Time      : 9.15 seconds
 
 #include <cstdint>
 #include <string>
@@ -359,28 +359,28 @@ namespace Offsets {
     }
 
     namespace LuauVm {
-        inline constexpr uintptr_t GcTt = 0x1;
-        inline constexpr uintptr_t GlobalPages = 0xA8;
+        inline constexpr uintptr_t GcTt = 0x0;
+        inline constexpr uintptr_t GlobalPages = 0x330;
         inline constexpr uintptr_t NodeKey = 0x10;
         inline constexpr uintptr_t NodeKeyTt = 0xC;
         inline constexpr uintptr_t NodeStride = 0x20;
         inline constexpr uintptr_t NodeValTt = 0xC;
         inline constexpr uintptr_t PageBlockSize = 0x24;
         inline constexpr uintptr_t PageSize = 0x20;
-        inline constexpr uintptr_t StateGlobal = 0x50;
-        inline constexpr uintptr_t StateGt = 0x10;
-        inline constexpr uintptr_t StateSlot = 0x210;
-        inline constexpr uintptr_t StateVariant = 0x1;
-        inline constexpr uintptr_t StrtHash = 0x50;
-        inline constexpr uintptr_t StrtNuse = 0x44;
-        inline constexpr uintptr_t StrtSize = 0x48;
+        inline constexpr uintptr_t StateGlobal = 0x60;
+        inline constexpr uintptr_t StateGt = 0x78;
+        inline constexpr uintptr_t StateSlot = 0x3C0;
+        inline constexpr uintptr_t StateVariant = 0x2;
+        inline constexpr uintptr_t StrtHash = 0x38;
+        inline constexpr uintptr_t StrtNuse = 0x40;
+        inline constexpr uintptr_t StrtSize = 0x2C;
         inline constexpr uintptr_t TStringData = 0x18;
         inline constexpr uintptr_t TStringLen = 0x14;
         inline constexpr uintptr_t TStringNext = 0x8;
-        inline constexpr uintptr_t TableLsizenode = 0x7;
-        inline constexpr uintptr_t TableNode = 0x20;
-        inline constexpr uintptr_t TagString = 0x6;
-        inline constexpr uintptr_t TagTable = 0x7;
+        inline constexpr uintptr_t TableLsizenode = 0x5;
+        inline constexpr uintptr_t TableNode = 0x28;
+        inline constexpr uintptr_t TagString = 0x5;
+        inline constexpr uintptr_t TagTable = 0x6;
     }
 
     namespace MaterialColors {
@@ -559,6 +559,7 @@ namespace Offsets {
 
     namespace RunService {
         inline constexpr uintptr_t HeartbeatFPS = 0x88;
+        inline constexpr uintptr_t HeartbeatFrameTime = 0x88;
         inline constexpr uintptr_t HeartbeatTask = 0xD8;
     }
 

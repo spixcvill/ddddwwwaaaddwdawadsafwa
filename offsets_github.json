@@ -12,6 +12,22 @@
       "PositionOffset": 312,
       "Storage": "QuaternionXyzwVector3",
       "ValueOffset": 296
+    },
+    "RunService.HeartbeatFPS": {
+      "Formula": "value > 0 ? 1 / value : 0",
+      "PointerOffsets": [
+        216
+      ],
+      "Storage": "Float64Seconds",
+      "ValueOffset": 136
+    },
+    "RunService.HeartbeatFrameTime": {
+      "Formula": "value",
+      "PointerOffsets": [
+        216
+      ],
+      "Storage": "Float64Seconds",
+      "ValueOffset": 136
     }
   },
   "Offsets": {
@@ -327,28 +343,28 @@
       "Hash": 392
     },
     "LuauVm": {
-      "GcTt": 1,
-      "GlobalPages": 168,
+      "GcTt": 0,
+      "GlobalPages": 816,
       "NodeKey": 16,
       "NodeKeyTt": 12,
       "NodeStride": 32,
       "NodeValTt": 12,
       "PageBlockSize": 36,
       "PageSize": 32,
-      "StateGlobal": 80,
-      "StateGt": 16,
-      "StateSlot": 528,
-      "StateVariant": 1,
-      "StrtHash": 80,
-      "StrtNuse": 68,
-      "StrtSize": 72,
+      "StateGlobal": 96,
+      "StateGt": 120,
+      "StateSlot": 960,
+      "StateVariant": 2,
+      "StrtHash": 56,
+      "StrtNuse": 64,
+      "StrtSize": 44,
       "TStringData": 24,
       "TStringLen": 20,
       "TStringNext": 8,
-      "TableLsizenode": 7,
-      "TableNode": 32,
-      "TagString": 6,
-      "TagTable": 7
+      "TableLsizenode": 5,
+      "TableNode": 40,
+      "TagString": 5,
+      "TagTable": 6
     },
     "MaterialColors": {
       "Asphalt": 48,
@@ -507,6 +523,7 @@
     },
     "RunService": {
       "HeartbeatFPS": 136,
+      "HeartbeatFrameTime": 136,
       "HeartbeatTask": 216
     },
     "Script": {
